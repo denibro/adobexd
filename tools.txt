@@ -9,10 +9,10 @@
 
 
 	icon gratis
+	5. https://boxicons.com/ (untuk css dan adobe xd)
 	1. https://linearicons.com/free (untuk css)
 	3. https://heroicons.com/ (untuk adobe xd)
 	4. https://css.gg/ (untuk css dan adobe xd)
-	5. https://boxicons.com/ (untuk css dan adobe xd)
 	6. https://akveo.github.io/ (untuk adobe xd)
 	7. https://remixicon.com/ (untuk css dan adobe xd)
 	8. https://iconmonstr.com/ (untuk adobe xd)
