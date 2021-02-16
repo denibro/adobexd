@@ -5,6 +5,8 @@
 	4. https://mycolor.space/ (untuk mencari kecocokan warna)
 	5. https://bennettfeely.com/clippy/ (untuk membuat bentuk poligon di css)
 	6. https://www.theappguruz.com/tag-tools/web/CSSAnimations/ (animasi css)
+	7. ColorZilla 2.0 (buat mengambil warna)
+	8. ColorPick Eyedropper 0.0.2.36 (buat mengambil warna)
 
 
 
@@ -35,4 +37,5 @@
 	vector gratis
 	1. https://www.manypixels.co/gallery
 	2. https://www.drawkit.io/
+	3. https://illlustrations.co/
 	
