@@ -11,7 +11,7 @@
 
 
 	icon gratis
-	5. https://boxicons.com/ (untuk css dan adobe xd)
+	5. https://boxicons.com/ (untuk css dan adobe xd)/ lisensi aman
 	1. https://linearicons.com/free (untuk css)
 	3. https://heroicons.com/ (untuk adobe xd)
 	4. https://css.gg/ (untuk css dan adobe xd)
@@ -38,4 +38,12 @@
 	1. https://www.manypixels.co/gallery
 	2. https://www.drawkit.io/
 	3. https://illlustrations.co/
+
+
+	mockup
+	2. https://graphicburger.com​ (lisensi gratis dan aman)
+	4. https://freedesignresources.net​
+	5. https://www.mockupcatalog.com​
+	6. https://pixelbuddha.net​
+	7. https://graphicgoogle.com/
 	
